@@ -1210,7 +1210,6 @@
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
-* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [Study Material](https://rentry.co/FMHYBase64#study-material) - 11th / 12th Test Prep / Notes
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
@@ -1230,12 +1229,10 @@
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
-* [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
-* [School Cheats](https://schoolcheats.net/) - School Platform Answers
+* [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions\
 
 ***
 
